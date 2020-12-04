@@ -1,0 +1,5 @@
+<LEADER BOARD>
+
+Gareth		800
+Wai		100
+Leo		60
